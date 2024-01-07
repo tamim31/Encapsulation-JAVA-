@@ -2,6 +2,7 @@
 
 
 Key features of encapsulation in Java:
+            
             1.Data Hiding:
                          Achieved by declaring variables as private within a class.
                          Prevents direct access from outside the class.
