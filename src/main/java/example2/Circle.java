@@ -3,7 +3,7 @@ package example2;
 
  class Circle {
     
-    private int radius;
+    private final int radius;
 
      Circle(int radius) {
         this.radius=radius;

@@ -23,4 +23,17 @@ class Student {
      public void setAge(int age) {
          this.age = age;
      }
+    /*  //constructor  r madome
+     Student()
+     {
+         int a = 16;
+         String s = "Taimur";
+         this.name=s;
+         this.age=a;
+     }
+     public void print()
+     {
+         System.out.println("student "+ name + age);
+     }*/
+             
 }
